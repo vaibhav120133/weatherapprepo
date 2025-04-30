@@ -1,0 +1,1 @@
+This is a simple web application built with Flask and deployed using Render that fetches and displays real-time weather data such as temperature, humidity, and more using the OpenWeatherMap API. You can input a city name and its approximate latitude and longitude to get current weather information.
